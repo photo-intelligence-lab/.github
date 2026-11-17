@@ -6,6 +6,10 @@ We test AI photo apps the boring way: price per photo, photo count, likeness and
 - [AI headshots](https://narkis.ai) · [AI dating photos](https://narkis.ai/dating-profile) · [Tinder photos](https://narkis.ai/tinder) · [Pricing](https://narkis.ai/pricing)
 - [Compare AI headshot apps](https://narkis.ai/compare) · [LinkedIn photo checker (free)](https://narkis.ai/tools/linkedin-photo-checker) · [Headshot cost by city](https://narkis.ai/tools/headshot-cost-calculator)
 
+#### Open datasets (CC BY 4.0)
+- [Headshot prices by city](https://github.com/photo-intelligence-lab/headshot-prices-by-city): how much a professional headshot costs in 822 US cities (median, range, studios listed) · [study](https://narkis.ai/research/headshot-costs-by-city)
+- [Photographer deserts](https://github.com/photo-intelligence-lab/photographer-deserts): photography businesses per 100k residents for every US county, metro and state (Census) · [study](https://narkis.ai/research/photographer-deserts)
+
 #### Rankings and comparisons I write (disclosure: we build Narkis, which is #1 in them)
 - [Best AI headshot generators (repo)](https://github.com/photo-intelligence-lab/best-ai-headshot-generators) · [Best AI dating photo app 2026 (repo)](https://github.com/photo-intelligence-lab/best-ai-dating-photo-app)
 - dev.to: [Best AI headshot generator 2026](https://dev.to/signedadam/best-ai-headshot-generator-2026-8-tools-compared-by-price-per-photo-1nnf) · [Best AI dating photo app 2026](https://dev.to/signedadam/best-ai-dating-photo-app-2026-6-apps-compared-on-price-per-photo-1b8c)

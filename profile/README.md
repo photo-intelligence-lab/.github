@@ -6,6 +6,10 @@ We test AI photo apps the boring way: price per photo, photo count, likeness and
 - [AI headshots](https://narkis.ai) · [AI dating photos](https://narkis.ai/dating-profile) · [Tinder photos](https://narkis.ai/tinder) · [Pricing](https://narkis.ai/pricing)
 - [Compare AI headshot apps](https://narkis.ai/compare) · [LinkedIn photo checker (free)](https://narkis.ai/tools/linkedin-photo-checker) · [Headshot cost by city](https://narkis.ai/tools/headshot-cost-calculator)
 
+#### Developer tools (free, MIT/GPL)
+- [profile-photo-specs](https://github.com/photo-intelligence-lab/profile-photo-specs): profile picture sizes, file limits and formats for 28 platforms + passports, with sources · [npm](https://www.npmjs.com/package/profile-photo-specs) · [JSON API](https://narkis.ai/api/profile-photo-specs) · [resizer](https://narkis.ai/tools/profile-photo-resizer)
+- [Placeholder avatar API](https://narkis.ai/developers/avatars): realistic AI faces of people who don't exist, no key · [WordPress plugin](https://github.com/photo-intelligence-lab/narkis-avatars-wp)
+
 #### Open datasets (CC BY 4.0)
 - [Headshot prices by city](https://github.com/photo-intelligence-lab/headshot-prices-by-city): how much a professional headshot costs in 822 US cities (median, range, studios listed) · [Kaggle](https://www.kaggle.com/datasets/photointelligencelab/headshot-prices-by-city) · [study](https://narkis.ai/research/headshot-costs-by-city)
 - [Photographer deserts](https://github.com/photo-intelligence-lab/photographer-deserts): photography businesses per 100k residents for every US county, metro and state (Census) · [Kaggle](https://www.kaggle.com/datasets/photointelligencelab/photographer-deserts) · [study](https://narkis.ai/research/photographer-deserts)

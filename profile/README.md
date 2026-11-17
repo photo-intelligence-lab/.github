@@ -9,6 +9,8 @@ We test AI photo apps the boring way: price per photo, photo count, likeness and
 #### Open datasets (CC BY 4.0)
 - [Headshot prices by city](https://github.com/photo-intelligence-lab/headshot-prices-by-city): how much a professional headshot costs in 822 US cities (median, range, studios listed) · [Kaggle](https://www.kaggle.com/datasets/photointelligencelab/headshot-prices-by-city) · [study](https://narkis.ai/research/headshot-costs-by-city)
 - [Photographer deserts](https://github.com/photo-intelligence-lab/photographer-deserts): photography businesses per 100k residents for every US county, metro and state (Census) · [Kaggle](https://www.kaggle.com/datasets/photointelligencelab/photographer-deserts) · [study](https://narkis.ai/research/photographer-deserts)
+- [AI headshot generator prices 2026](https://www.kaggle.com/datasets/photointelligencelab/ai-headshot-generator-prices-2026): cost per photo for 8 AI headshot generators (Kaggle)
+- [AI dating photo app prices 2026](https://www.kaggle.com/datasets/photointelligencelab/ai-dating-photo-app-prices-2026): cost per photo for 6 AI dating photo apps (Kaggle)
 
 #### Rankings and comparisons I write (disclosure: we build Narkis, which is #1 in them)
 - [Best AI headshot generators (repo)](https://github.com/photo-intelligence-lab/best-ai-headshot-generators) · [Best AI dating photo app 2026 (repo)](https://github.com/photo-intelligence-lab/best-ai-dating-photo-app)
